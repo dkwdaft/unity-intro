@@ -1753,6 +1753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stars: 0
   starText: {fileID: 1281169618}
+  timeText: {fileID: 1228537783}
 --- !u!1 &1005135860
 GameObject:
   m_ObjectHideFlags: 0
