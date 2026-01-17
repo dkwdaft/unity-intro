@@ -72,3 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 .vsconfig
 .vscode
+.DS_Store
+.idea/.idea.unity-intro/.idea/vcs.xml
+/.idea
